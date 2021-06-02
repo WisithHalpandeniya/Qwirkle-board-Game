@@ -1,0 +1,12 @@
+1
+WIS
+SIW
+place G3 at K11
+place G1 at K10
+place O1 aat L10
+place O1 at L10
+place O4 at L11
+place O4 at L9
+save en1.save
+save en1
+^C
